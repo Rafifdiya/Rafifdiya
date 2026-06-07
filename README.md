@@ -6,10 +6,37 @@
 
 <br/>
 
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-1A0A12?style=for-the-badge&logo=instagram&logoColor=D4AF37)](https://instagram.com/rafif.dy)
-[![Gmail](https://img.shields.io/badge/GMAIL-1A0000?style=for-the-badge&logo=gmail&logoColor=D4AF37)](mailto:Rafif.diya2301@gmail.com)
-[![Outlook](https://img.shields.io/badge/OUTLOOK-050D1A?style=for-the-badge&logo=microsoftoutlook&logoColor=D4AF37)](mailto:Rafifdiya@binus.ac.id)
-[![GitHub](https://img.shields.io/badge/GITHUB-0D0D0D?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Rafifdiya)
+<table border="0" align="center">
+  <tr>
+    <td align="center" width="100">
+      <a href="https://instagram.com/rafif.dy">
+        <img src="https://cdn.simpleicons.org/instagram/D4AF37" width="48" height="48"/>
+        <br/><sub><b>Instagram</b></sub>
+      </a>
+    </td>
+    <td width="30"></td>
+    <td align="center" width="100">
+      <a href="mailto:Rafif.diya2301@gmail.com">
+        <img src="https://cdn.simpleicons.org/gmail/D4AF37" width="48" height="48"/>
+        <br/><sub><b>Gmail</b></sub>
+      </a>
+    </td>
+    <td width="30"></td>
+    <td align="center" width="100">
+      <a href="mailto:Rafifdiya@binus.ac.id">
+        <img src="https://cdn.simpleicons.org/microsoftoutlook/D4AF37" width="48" height="48"/>
+        <br/><sub><b>Outlook</b></sub>
+      </a>
+    </td>
+    <td width="30"></td>
+    <td align="center" width="100">
+      <a href="https://github.com/Rafifdiya">
+        <img src="https://cdn.simpleicons.org/github/D4AF37" width="48" height="48"/>
+        <br/><sub><b>GitHub</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
