@@ -31,7 +31,7 @@
     <td width="30"></td>
     <td align="center" width="100">
       <a href="https://github.com/Rafifdiya">
-        <img src="https://cdn.simpleicons.org/github/ffffff" width="48" height="48"/>
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="48" height="48"/>
         <br/><sub><b>GitHub</b></sub>
       </a>
     </td>
