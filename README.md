@@ -28,6 +28,13 @@
         <br/><sub><b>GitHub</b></sub>
       </a>
     </td>
+    <td width="30"></td>
+    <td align="center" width="100">
+      <a href="https://www.linkedin.com/in/rafif-diya-076150326/">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="48" height="48"/>
+        <br/><sub><b>LinkedIn</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 
