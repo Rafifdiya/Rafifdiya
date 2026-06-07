@@ -10,7 +10,7 @@
   <tr>
     <td align="center" width="100">
       <a href="https://instagram.com/rafif.dy">
-        <img src="https://cdn.simpleicons.org/instagram/E4405F" width="48" height="48"/>
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="48" height="48"/>
         <br/><sub><b>Instagram</b></sub>
       </a>
     </td>
