@@ -1,0 +1,64 @@
+<svg width="600" height="90" viewBox="0 0 600 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow-outer" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+      </feMerge>
+    </filter>
+    <filter id="glow-inner" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Outer glow layer -->
+  <text x="300" y="62"
+        font-family="monospace"
+        font-size="58"
+        font-weight="bold"
+        text-anchor="middle"
+        opacity="0.5"
+        filter="url(#glow-outer)">
+    Rafifdiya
+    <animate attributeName="fill"
+             values="#FF0000;#FF7F00;#FFFF00;#00FF00;#00FFFF;#0080FF;#8000FF;#FF00FF;#FF0000"
+             dur="4s"
+             calcMode="linear"
+             repeatCount="indefinite"/>
+  </text>
+
+  <!-- Inner glow layer -->
+  <text x="300" y="62"
+        font-family="monospace"
+        font-size="58"
+        font-weight="bold"
+        text-anchor="middle"
+        opacity="0.8"
+        filter="url(#glow-inner)">
+    Rafifdiya
+    <animate attributeName="fill"
+             values="#FF0000;#FF7F00;#FFFF00;#00FF00;#00FFFF;#0080FF;#8000FF;#FF00FF;#FF0000"
+             dur="4s"
+             calcMode="linear"
+             repeatCount="indefinite"/>
+  </text>
+
+  <!-- Sharp text on top -->
+  <text x="300" y="62"
+        font-family="monospace"
+        font-size="58"
+        font-weight="bold"
+        text-anchor="middle">
+    Rafifdiya
+    <animate attributeName="fill"
+             values="#FF0000;#FF7F00;#FFFF00;#00FF00;#00FFFF;#0080FF;#8000FF;#FF00FF;#FF0000"
+             dur="4s"
+             calcMode="linear"
+             repeatCount="indefinite"/>
+  </text>
+</svg>
