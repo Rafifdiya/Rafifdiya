@@ -9,9 +9,9 @@
 <br/>
 
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rafif.dy)
-[![Gmail](https://img.shields.io/badge/BINUS%20MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rafifdiya@binus.ac.id)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rafif.diya2301@gmail.com)
+[![Outlook](https://img.shields.io/badge/OUTLOOK-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:Rafifdiya@binus.ac.id)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafifdiya)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-6289-5856)
 
 </div>
 
