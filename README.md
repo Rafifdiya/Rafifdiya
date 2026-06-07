@@ -19,21 +19,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rafifdiya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafifdiya&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rafifdiya&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
