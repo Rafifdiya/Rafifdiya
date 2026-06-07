@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rafifdiya&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Computer%20Science%20Student%20%7C%20Jakarta%2C%20Indonesia%20%F0%9F%87%AE%F0%9F%87%A9&descAlignY=55&descAlign=50"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+call+me+Rafif!+%F0%9F%91%8B;Computer+Science+%40+Binus+University;I+like+nasigoreng+%F0%9F%8D%B3;he%2Fhim)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1500&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+call+me+Rafif!+%F0%9F%91%8B;Computer+Science+%40+Binus+University;I+like+nasigoreng+%F0%9F%8D%B3;he%2Fhim)](https://git.io/typing-svg)
 
 <br/>
 
