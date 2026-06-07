@@ -2,7 +2,7 @@
 
 # Hi there, my name is Rafifdiya — you can call me Rafif! or anything you prefer 👋
 
-**Informatics Student at Binus University · Jakarta, Indonesia 🇮🇩**
+**Computer Science Student at Binus University · Jakarta, Indonesia 🇮🇩**
 
 *I like nasigoreng 🍳*
 
